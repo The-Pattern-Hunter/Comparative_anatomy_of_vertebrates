@@ -42,4 +42,4 @@ This series explores the three core pillars of Comparative Anatomy:
 3. If prompted, click **"Run Anyway"** for the setup cells.
 
 ---
-*© 2024 Dr. Alok Patel. All rights reserved. For educational and research purposes.*
+*© 2025 Dr. Alok Patel. All rights reserved. For educational and research purposes.*
