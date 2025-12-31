@@ -16,7 +16,7 @@ Click the "Open in Colab" badges below to launch the interactive modules. These 
 |:--|:---|:---|:---:|
 | 1 | **Integumentary System** | Evolution of skin, scales, feathers, and hair. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Comparative_anatomy_of_vertebrates/blob/main/notebooks/01_Integument_Derivatives_Complete.ipynb) |
 | 2 | **Skeletal System: Axial-Appendicular** | Transformation of the notochord and vertebral column. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Comparative_anatomy_of_vertebrates/blob/main/notebooks/02_Axial_Appendicular_Skeleton_Interactive.ipynb) |
-| 3 | **Skull: Jaw Suspensorium** | From fins to limbs: Evolution of the pentadactyl limb. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Comparative_anatomy_of_vertebrates/blob/main/notebooks/03_Jaw_Suspensorium_Evolution_Interactive.ipynb) |
+| 3 | **Skull: Jaw Suspensorium** | the attachment of the lower jaw to the skull, evolving from modified gill arches (visceral arches) for efficient biting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Comparative_anatomy_of_vertebrates/blob/main/notebooks/03_Jaw_Suspensorium_Evolution_Interactive.ipynb) |
 | 4 | **Visceral Arches Across Vertebrates** | Evolution from fish myomeres to specialized tetrapod muscles. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Comparative_anatomy_of_vertebrates/blob/main/notebooks/04_Visceral_Arches_Interactive.ipynb) |
 | 5 | **Digestive System** | Modifications of the alimentary canal and accessory glands. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Comparative_anatomy_of_vertebrates/blob/main/notebooks/05_Alimentary_Canal_Complete.ipynb) |
 | 6 | **Respiratory System** | Transition from internal gills to lungs and air sacs. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Comparative_anatomy_of_vertebrates/blob/main/notebooks/06_Respiration_Skin_Gills_Lungs_AirSacs.ipynb) |
@@ -40,6 +40,26 @@ This series explores the three core pillars of Comparative Anatomy:
 1. Click any badge to open the notebook in **Google Colab**.
 2. Go to **Runtime > Run all** to activate the interactive widgets.
 3. If prompted, click **"Run Anyway"** for the setup cells.
+
+### Standard Textbooks
+
+1. **Kardong, K.V. (2019).** *Vertebrates: Comparative Anatomy, Function, Evolution* (8th ed.). 
+   McGraw-Hill Education. ISBN: 978-1259700835
+
+2. **Kent, G.C. & Carr, R.K. (2001).** *Comparative Anatomy of the Vertebrates* (9th ed.). 
+   McGraw-Hill. ISBN: 978-0072528305
+
+3. **Liem, K.F., Bemis, W.E., Walker, W.F. & Grande, L. (2001).** 
+   *Functional Anatomy of the Vertebrates: An Evolutionary Perspective* (3rd ed.). 
+   Brooks/Cole. ISBN: 978-0030223693
+
+4. **Hildebrand, M. & Goslow, G. (2001).** *Analysis of Vertebrate Structure* (5th ed.). 
+   John Wiley & Sons. ISBN: 978-0471292999
+
+5. **Pough, F.H., Janis, C.M. & Heiser, J.B. (2013).** *Vertebrate Life* (9th ed.). 
+   Pearson. ISBN: 978-0321773364
+
+
 
 ---
 *© 2025 Dr. Alok Patel. All rights reserved. For educational and research purposes.*
