@@ -2,7 +2,7 @@
 
 This repository provides an interactive, digital laboratory for exploring the evolutionary transformations of vertebrate organ systems. Using Python-based visualizations, students can trace anatomical changes from early chordates to mammals.
 
-**Authors:** Dr. Alok Patel  
+**Authors:** Dr. Alok Patel  & Ms. Susama Kar
 **Institution:** Department of Zoology, Kuchinda College  
 **Series:** The Pattern Hunters - Comparative Anatomy of Vertebrates  
 
